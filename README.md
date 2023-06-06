@@ -73,6 +73,7 @@ else:
 
 # Output : 
 
+![ex2](https://github.com/LokeshRajamani/Poisson_distribution/assets/120544804/d81631ee-afcb-4ad5-b7ce-060d40c6a2f7)
 
 
 # Results
